@@ -4,5 +4,5 @@ app = FastAPI()
 
 @app.get("/")
 def root():
-    return {"message": "ProjectFit backend está funcionando 🚀"}
+    return {"message": "ProjectFit backend está funcionando. 🚀"}
 
